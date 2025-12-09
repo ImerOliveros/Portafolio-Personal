@@ -1,2 +1,2 @@
 # Portafolio-Personal
-Soy Imer
+Soy Imer, estudiante de ing en sistemas computacionales
